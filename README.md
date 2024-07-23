@@ -1,4 +1,4 @@
-# AUTO-DL-
+# AUTO-DL 环境激活
 activate conda 
 
 首先打开Jupyter Lab
